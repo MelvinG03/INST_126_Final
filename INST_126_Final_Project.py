@@ -7,7 +7,7 @@ class WordGuessingGame:
         self.theme = theme
         self.reveal_word_length = reveal_word_length
         self.display_guessed_letters = display_guessed_letters
-        self.scores = {}  # Store scores for each word
+        self.scores = {}
 
     def select_secret_word(self):
         return random.choice(self.word_bank)
