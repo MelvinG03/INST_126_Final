@@ -26,3 +26,5 @@ If yes, display a game over message and end the game.
 Display the total number of letter guesses and word guesses made by the player.
 2. Create an instance of the WordGuessingGame class with a word bank and theme.
 3. Call the play_game() method to start the game.
+
+Credit to Ethan Varghese for some help in brainstorming and checking my code.
